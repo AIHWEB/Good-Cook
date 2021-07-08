@@ -1,0 +1,18 @@
+body{font-family: 'Poppins', sans-serif;
+}
+h1{font-size:100px; width: 1000px;}
+.green-color{color:#9cf518;
+}
+section {display:flex;
+}
+.half-width {width: 50%;
+}
+.half-width img{width: 50%;}
+ .link-button{
+     text-decoration: none;
+    background-image: linear-gradient(green ,#9cf518 );
+    color: white;font-weight: 700;
+    padding:20px 40px;border-radius: 30px;
+ }
+
+
